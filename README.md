@@ -5,4 +5,4 @@ DrumKit Features summarise:
 Click each buttons display on the screen to make sound.
 Or Press the key according to what it displays on the each button (W,A,S,D,J,K,L).
 
-[Imgur](https://i.imgur.com/IbSWHrF.png)
+![Imgur Image](https://i.imgur.com/IbSWHrF.png)
